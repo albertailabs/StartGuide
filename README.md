@@ -6,7 +6,7 @@
   - [로봇 언박싱 하기](https://github.com/albertailabs/Unboxing)
 
 
-알버트AI에서 제공하는 5가지 서비스 
+알버트 AI에서 제공하는 5가지 서비스 
 --
   - [따라오기 모드](https://github.com/albertailabs/Follow)
   - [셀프 코딩 모드](https://github.com/albertailabs/SelfCoding)
