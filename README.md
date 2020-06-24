@@ -4,7 +4,7 @@
 --
   - [하드웨어기능 알아보기](https://github.com/albertailabs/HW)
   - [로봇 언박싱 하기](https://github.com/albertailabs/Unboxing)
-  - [Wi-fi 연결하기](https://github.com/albertailabs/Wi-fi)
+
 
 
 알버트 AI에서 제공하는 5가지 서비스 
@@ -18,7 +18,7 @@
 
 문제해결
 --
-
+  - [Wi-fi 하기](https://github.com/albertailabs/Wi-fi)
   
   
   
