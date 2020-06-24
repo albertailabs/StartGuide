@@ -2,7 +2,7 @@
 
 로봇과 친해지기
 --
-  - [하드웨어 기능 알아보기](https://github.com/albertailabs/HW)
+  - [하드웨어기능 알아보기](https://github.com/albertailabs/HW)
   - [로봇 언박싱 하기](https://github.com/albertailabs/Unboxing)
   - [Wi-fi 연결하기](https://github.com/albertailabs/Wi-fi)
 
