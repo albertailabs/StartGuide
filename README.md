@@ -18,7 +18,7 @@
 
 문제해결
 --
-  - [Wi-fi 하기](https://github.com/albertailabs/Wi-fi)
+  - [Wi-fi 변경하기](https://github.com/albertailabs/Wi-fi)
   
   
   
