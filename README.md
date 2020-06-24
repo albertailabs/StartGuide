@@ -2,7 +2,7 @@
 
 로봇과 친해지기
 --
-  - [로봇 하드웨어 사양 자세히 보기](https://github.com/albertailabs/HW)
+  - [하드웨어 사양 자세히 보기](https://github.com/albertailabs/HW)
 
 
 로봇 켜기 
